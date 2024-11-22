@@ -77,7 +77,7 @@ To set up HR-MS locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Malikaelabderrahmani/rh-ms.git 
+   git clone https://github.com/fatimaelasri01/Operations-MS.git
 
 ## Repository Links
 
