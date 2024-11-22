@@ -73,7 +73,7 @@ The **Operations-MS** microservice focuses on managing school operations. Key fe
 
 ## Installation
 
-To set up HR-MS locally, follow these steps:
+To set up OPERATION-MS locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
