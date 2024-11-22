@@ -69,7 +69,15 @@ The **Operations-MS** microservice focuses on managing school operations. Key fe
   - Integrate with the Academic-MS for seamless curriculum scheduling.  
 
 - **Archive Management:**  
-  - Store event photos, documents, and school announcements for future reference.  
+  - Store event photos, documents, and school announcements for future reference.
+
+## Installation
+
+To set up HR-MS locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Malikaelabderrahmani/rh-ms.git 
 
 ## Repository Links
 
